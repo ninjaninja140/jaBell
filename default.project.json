@@ -1,14 +1,12 @@
 {
-	"name": "ExampleProject",
+	"name": "jaBell",
 	"tree": {
 		"$className": "DataModel",
 
-		"ServerScriptService": {
-			"ExampleProject": {
+		"Workspace": {
+			"jaBell": {
 				"$className": "Folder",
-				"MainModule": {
-					"$path": "source"
-				}
+				"$path": "source"
 			}
 		}
 	}
